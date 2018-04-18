@@ -1,4 +1,4 @@
-#+TITLE: Summer Internship at VLEAD, IIIT Hyderabada
+#+TITLE: Summer Internship at VLEAD, IIIT Hyderabad
 #+AUTHOR: VLEAD
 #+DATE: [2017-06-01 Thu]
 #+SETUPFILE: ./org-templates/level-0.org
@@ -11,10 +11,6 @@
   features.
 
 * [[./on-boarding.org][On Boarding]]
-* [[./projects.org][Projects]]
-
-* [[./mapping.org][Mapping of projects to Interns]]
-
 * [[./work-logs/index.org][Work Logs]]
 
 * [[./mentor-instructions.org][Mentor Instructions]]

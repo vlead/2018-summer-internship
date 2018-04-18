@@ -12,7 +12,6 @@
 
 * [[./on-boarding.org][On Boarding]]
 * [[./work-logs/index.org][Work Logs]]
-
 * [[./mentor-instructions.org][Mentor Instructions]]
 
 

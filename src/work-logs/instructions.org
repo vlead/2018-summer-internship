@@ -1,0 +1,74 @@
+#+title:  Instructions of 2018 Summer Interns @VLEAD
+#+AUTHOR: VLEAD
+#+SETUPFILE: ../../org-templates/level-2.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document describes the how to create work logs directories for
+  2018 summer interns @VLEAD. And follow the below instructions
+
+* Instructions
+1) Follow the below command to download/clone a work-logs repository from Gitlab.
+ #+BEGIN_EXAMPLE
+ git clone <gitlab repo URL>
+ #+END_EXAMPLE
+2) Follow the below command to Change directory to work-logs
+ #+BEGIN_EXAMPLE
+ cd work-logs/src/interns/2017-summer-interns/work-logs
+ #+END_EXAMPLE
+3) Follow the below command to creat a directory
+ #+BEGIN_EXAMPLE
+ mkdir <enter your name>
+ #+END_EXAMPLE
+4) Follow the below command to create files
+ #+BEGIN_EXAMPLE
+ cd <your directory name>
+ touch index.org work-log.org
+ #+END_EXAMPLE
+5) Open the =index.org= file and copy the below lines. And save the file
+ #+BEGIN_EXAMPLE
+ #+title:  Work Logs of <Enter Your Name here> @VLEAD
+ #+AUTHOR: <Enter Your Name>
+ #+DATE: [2016-12-30 Fri]
+ #+SETUPFILE: ../../org-templates/level-2.org
+ #+TAGS: boilerplate(b)
+ #+EXCLUDE_TAGS: boilerplate
+ #+OPTIONS: ^:nil
+
+ * Introduction
+  The work logs of <Enter Your Name> @ VLEAD are collated here.
+
+ * [[./work-log.org][Work Logs of <Enter Your Name>]]
+ #+END_EXAMPLE
+6) Follow the below command for Change directory to work logs
+ #+BEGIN_EXAMPLE
+ cd ../
+ #+END_EXAMPLE
+7) Open below file with text editor
+ #+BEGIN_EXAMPLE
+ emacs index.org & 
+ #+END_EXAMPLE
+8) Add your =index.org= file link in above file and save the file.
+
+ Example:
+ #+BEGIN_EXAMPLE
+ * [[./<Your Directory Name>/index.org][<Enter Your Name>]]
+ #+END_EXAMPLE
+9) Follow the below command to Add directory to Git
+ #+BEGIN_EXAMPLE
+ git add <Enter Your Dir Name>
+ #+END_EXAMPLE
+10) Follow the below command to commit to Git
+ #+BEGIN_EXAMPLE
+ git commit -m "commit message"
+ #+END_EXAMPLE
+11) Follow the command to check status of respository
+ #+BEGIN_EXAMPLE
+ git status
+ #+END_EXAMPLE
+12) Follow the below command to push/upload to Git
+ #+BEGIN_EXAMPLE
+ git push
+ #+END_EXAMPLE

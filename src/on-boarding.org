@@ -1,13 +1,15 @@
 #+TITLE: On Boarding Document
 #+AUTHOR: VLEAD
-#+DATE: [2017-05-04 Thu]
+#+DATE: [2018-04-18 Wed]
 #+SETUPFILE: ./org-templates/level-0.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
 
 
-* Things to Do before [2018-05-01 Tue]
+* Things to Do before [2018-05-14 Mon]
+  
+  < To be confirmed by Thirumal>
 
   1. Work on both the parts - A & B - of [[http://pascal.iiit.ac.in/~itws2/docs/current-topics/lab-exam/instructions.html][final exam]].  On the first day of the
      internship you should show us that all your test cases run.
@@ -42,11 +44,13 @@
    mentor during the internship period.
 
 ** Work Logs
-   1. Work logs to be committed at the end of every day.  Create a file
+   1. Follow the =instructions.org= to create a work-logs directory.
+
+   2. Work logs to be committed at the end of every day.  Create a file
       =first-name.org= in the =work-logs= directory and fill in the details.
       Please use =sample.org= as a template.
 
-   2. You have to get your work-log approved from your mentor on a weekly
+   3. You have to get your work-log approved from your mentor on a weekly
       basis. You will also need to submit your approved work-log to
       ravi.kiran@vlabs.ac.in . Your stipend will be released against this
       submission only.
@@ -56,10 +60,10 @@
      mins) by the interns on their project and progress.
 
   2. You will need to make a mid-internship presentation at the end of the 4th
-     week of internship - week of 29th June to 6th July 2017.
+     week of internship - week of 11th June to 15th July 2018.
 
   3. A final presentation (with links to relevant documents) will need to be
-     made during the week of 13th July to 20th July 2017 against which the
+     made during the week of 9th July to 13th July 2018 against which the
      internship certificate will be issued.
 ** IRC Channel
   Please login to IRC channel #vlead on freenode.  Hexchat is an IRC client

@@ -1,6 +1,6 @@
 #+TITLE: Work Logs of all interns
 #+AUTHOR: VLEAD
-#+DATE: [2017-06-01 Thu]
+#+DATE: [2018-04-18 Thu]
 #+SETUPFILE: ../org-templates/level-1.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate

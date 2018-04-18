@@ -1,6 +1,6 @@
 #+TITLE: Instructions to Mentors
 #+AUTHOR: VLEAD
-#+DATE: [2017-06-01 Thu]
+#+DATE: [2018-04-18 Wed]
 #+SETUPFILE: ./org-templates/level-0.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
@@ -37,4 +37,4 @@
   6. Pair Programming :: Encourage pair programming in the team.
 
   7. IRC Channel :: Ensure every one is logged on to =#vlead= channel on freenode.
-
+		    

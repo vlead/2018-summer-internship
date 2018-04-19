@@ -1,4 +1,4 @@
-#+TITLE: Sample Time sheet
+#+TITLE: Sample Work Log
 #+AUTHOR: Intern's name
 #+DATE: [2018-04-18 Wed]
 #+SETUPFILE: ../org-templates/level-1.org
@@ -7,31 +7,33 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-  This document hols the time sheets for my work during the summer internship
-  at VLEAD, IIIT Hyderabad
+  This document holds the time sheets for my work during
+  2018 summer internship at VLEAD, IIIT Hyderabad
 
 * Month of May
-** Week 1 [2018-05-14 Tue] till [2018-05-19 Fri]
-   + [2017-06-01 Thu] - Worked on centos adapter.  This is for the release of
+** Week 1 [2018-05-14 Mon] till [2018-05-18 Fri]
+   + [2018-05-14 Mon] - Worked on centos adapter.  This is for the release of
      v1.1.0 of ADS. ADS earlier in it's first release was deployed on the base
      machine.  From v11.1.0, ADS will be deployed in seperate machine and be
      part of the cluster.  I got most of the code working, but I got stuck
      while starting the VMManager service on the newly created container.  The
      service is started, the command does nto return making the openvz-adapter
      wait forever.  I will have to figure this out.
+
+   + [2018-05-15 Tue] - Worked on ....
+   + [2018-05-16 Wed] - Worked on ....
+   + [2018-05-17 Thu] - Worked on ....
+   + [2018-05-18 Fri] - Worked on ....
+   
 ** Week 2 [2018-05-21 Mon] till [2018-05-26 Fri]
-   + [2017-06-02 Fri]
-     Other stuff
+   + [2018-05-21 Mon] - Worked on .....
      
-** Week 3 [2018-05-28 Mon] till [2018-05-31 Thu]
-
+** Week 3 [2018-05-28 Mon] till [2018-06-01 Thu]
 * Month of June
-** Week 1 [2018-06-01 Fri] 
-** Week 2 [2018-06-04 Mon] till [2018-06-08 Fri]
-** Week 3 [2018-06-11 Mon] till [2018-06-15 Fri]
-** Week 4 [2018-06-18 Mon] till [2018-06-22 Fri]
-** Week 5 [2018-06-25 Mon] till [2018-06-29 Fri]
-
+** Week 1 [2018-06-04 Mon] till [2018-06-08 Fri]
+** Week 2 [2018-06-11 Mon] till [2018-06-15 Fri]
+** Week 3 [2018-06-18 Mon] till [2018-06-22 Fri]
+** Week 4 [2018-06-25 Mon] till [2018-06-29 Fri]
 * Month of July
 ** Week 1 [2018-07-02 Mon] till [2018-07-06 Fri]
 ** Week 2 [2018-07-09 Mon] till [2018-07-13 Fri]

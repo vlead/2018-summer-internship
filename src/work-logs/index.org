@@ -8,8 +8,8 @@
 
 
 * Introduction
-  Work logs of all the inters are collated here.
-
-* [[./sample.org][Sample Work Log]]
+  Work logs of all the interns are collated here.
 * Work Log of <intern's name>
-* Work Log of [[./sounak.org][Sounak]]
+
+# Sample  
+# Work Log of [[./sounak.org][Sounak]]

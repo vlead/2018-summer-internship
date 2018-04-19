@@ -10,15 +10,16 @@
   2018 summer interns @VLEAD. And follow the below instructions
 
 * Instructions
-1) Follow the below command to download/clone a work-logs repository from Gitlab.
+1) Follow the below command to download/clone
+   2018-summer-internship repository from Github.
  #+BEGIN_EXAMPLE
- git clone <gitlab repo URL>
+ git clone <github https://github.com/vlead/2018-summer-internship.git>
  #+END_EXAMPLE
-2) Follow the below command to Change directory to work-logs
+2) Follow the below command to change directory to work-logs
  #+BEGIN_EXAMPLE
- cd work-logs/src/interns/2017-summer-interns/work-logs
+ cd work-logs/src/2018-summer-interns/work-logs
  #+END_EXAMPLE
-3) Follow the below command to creat a directory
+3) Follow the below command to create a directory
  #+BEGIN_EXAMPLE
  mkdir <enter your name>
  #+END_EXAMPLE
@@ -31,7 +32,7 @@
  #+BEGIN_EXAMPLE
  #+title:  Work Logs of <Enter Your Name here> @VLEAD
  #+AUTHOR: <Enter Your Name>
- #+DATE: [2016-12-30 Fri]
+ #+DATE: [2018-05-14 Mon]
  #+SETUPFILE: ../../org-templates/level-2.org
  #+TAGS: boilerplate(b)
  #+EXCLUDE_TAGS: boilerplate

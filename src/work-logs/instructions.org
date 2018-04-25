@@ -6,8 +6,8 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-  This document describes the how to create work logs directories for
-  2018 summer interns @VLEAD. And follow the below instructions
+  This document describes  how to create work logs directories for
+  2018 summer interns @VLEAD.
 
 * Instructions
 1) Follow the below command to download/clone

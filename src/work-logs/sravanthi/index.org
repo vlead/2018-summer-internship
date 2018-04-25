@@ -1,0 +1,13 @@
+ #+BEGIN_EXAMPLE
+ #+title:  Work Logs of <Enter Your Name here> @VLEAD
+ #+AUTHOR: <Enter Your Name>
+ #+DATE: [2018-05-14 Mon]
+ #+SETUPFILE: ../../org-templates/level-2.org
+ #+TAGS: boilerplate(b)
+ #+EXCLUDE_TAGS: boilerplate
+ #+OPTIONS: ^:nil
+
+ * Introduction
+  The work logs of <Enter Your Name> @ VLEAD are collated here.
+
+ * [[./work-log.org][Work Logs of Sravanthi]]

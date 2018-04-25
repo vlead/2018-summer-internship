@@ -6,18 +6,6 @@
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
 
-
-* Things to Do before [2018-05-14 Mon]
-  
-  < To be confirmed by Thirumal>
-
-  1. Work on both the parts - A & B - of [[http://pascal.iiit.ac.in/~itws2/docs/current-topics/lab-exam/instructions.html][final exam]].  On the first day of the
-     internship you should show us that all your test cases run.
-  2. Setup your machine with [[https://www.vagrantup.com/intro/getting-started/index.html][Vagrant]] for virtualization.
-  3. Create an ubuntu 14.04 Virtual Machine using Vagrant.
-  4. Install emacs 24.x.x, git in that machine.
-  5. Read about [[https://martinfowler.com/articles/microservices.html][microservices]].
-
 * Welcome
 
   Welcome to Virtual Labs - 2018 Summer Internship Program @ IIITH !!!
@@ -29,6 +17,17 @@
   transition, so can call on any of us to assist you.
 
 * Instructions to Interns
+** Prerequisites
+  
+  < To be confirmed by Thirumal>
+
+  1. Work on both the parts - A & B - of [[http://pascal.iiit.ac.in/~itws2/docs/current-topics/lab-exam/instructions.html][final exam]].  On the first day of the
+     internship you should show us that all your test cases run.
+  2. Setup your machine with [[https://www.vagrantup.com/intro/getting-started/index.html][Vagrant]] for virtualization.
+  3. Create an ubuntu 14.04 Virtual Machine using Vagrant.
+  4. Install emacs 24.x.x, git in that machine.
+  5. Read about [[https://martinfowler.com/articles/microservices.html][microservices]].
+
 ** Access Card
    An RFID card will be issued to you on Day 1 of the internship
    program by Ravi Kiran, Program Officer, Virtual Labs. This should
@@ -40,31 +39,26 @@
    (Monday - Friday).
 
 ** Leave Policy
-   You are allowed to take only one leave in a month with prior notice to your
-   mentor during the internship period.
-
+   You are not allowed to take any leave during the internship period.
 ** Work Logs
    1. Follow the =instructions.org= to create a work-logs directory.
 
-   2. Work logs to be committed at the end of every day.  Create a file
-      =first-name.org= in the =work-logs= directory and fill in the details.
-      Please use =sample.org= as a template.
-
-   3. You have to get your work-log approved from your mentor on a weekly
+   2. You have to get your work-log approved from your mentor on a weekly
       basis. You will also need to submit your approved work-log to
       ravi.kiran@vlabs.ac.in . Your stipend will be released against this
       submission only.
       
 ** Presentations
-  1. All Friday afternoons will be reserved for a short presentation (5-10
+  1. All Wednesday & Friday afternoons will be reserved for a short presentation (5-10
      mins) by the interns on their project and progress.
 
   2. You will need to make a mid-internship presentation at the end of the 4th
-     week of internship - week of 11th June to 15th July 2018.
+     week of internship - week of 11th June to 15th June 2018.
 
   3. A final presentation (with links to relevant documents) will need to be
      made during the week of 9th July to 13th July 2018 against which the
      internship certificate will be issued.
+
 ** IRC Channel
   Please login to IRC channel #vlead on freenode.  Hexchat is an IRC client
   that is used at VLEAD.  =apt-get install hexchat= should allow you to install

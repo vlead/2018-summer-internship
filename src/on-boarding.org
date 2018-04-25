@@ -1,4 +1,4 @@
-#+TITLE: On Boarding Document
+#+TITLE: 2018 Summer Internship Boarding Document
 #+AUTHOR: VLEAD
 #+DATE: [2018-04-18 Wed]
 #+SETUPFILE: ./org-templates/level-0.org
@@ -18,15 +18,12 @@
 
 * Instructions to Interns
 ** Prerequisites
-  
-  < To be confirmed by Thirumal>
-
-  1. Work on both the parts - A & B - of [[http://pascal.iiit.ac.in/~itws2/docs/current-topics/lab-exam/instructions.html][final exam]].  On the first day of the
-     internship you should show us that all your test cases run.
-  2. Setup your machine with [[https://www.vagrantup.com/intro/getting-started/index.html][Vagrant]] for virtualization.
-  3. Create an ubuntu 14.04 Virtual Machine using Vagrant.
-  4. Install emacs 24.x.x, git in that machine.
-  5. Read about [[https://martinfowler.com/articles/microservices.html][microservices]].
+  1. Setup your machine with [[https://www.vagrantup.com/intro/getting-started/index.html][Vagrant]] for virtualization.
+  2. Create =VLEAD DEV= vagrant box from this [[http://files.vlabs.ac.in/downloads/vagrant-boxes/vlead-dev.box][box]].
+  3. Install and configure emacs using this [[https://gitlab.com/vxcg/pub/emacs/emacs][repo]].  Use the
+     makefile to configure.
+  4. Get comfortable with [[http://orgmode.org/][emacs]] editor and [[http://orgmode.org/][org-mode]].
+  5. Read about [[https://martinfowler.com/articles/microservices.html][microservices]]. 
 
 ** Access Card
    An RFID card will be issued to you on Day 1 of the internship

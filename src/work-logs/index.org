@@ -9,7 +9,7 @@
 
 * Introduction
   Work logs of all the interns are collated here.
-* Work Log of <intern's name>
-
+* Work Log of [[./sravanthi/index.org][<sravanthi>
+]]
 # Sample  
-# Work Log of [[./sounak.org][Sounak]]
+# Work Log of [[./sounak.org][Sravanthi]]

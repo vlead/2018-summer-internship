@@ -13,11 +13,11 @@
 1) Follow the below command to download/clone
    2018-summer-internship repository from Github.
  #+BEGIN_EXAMPLE
- git clone <github https://github.com/vlead/2018-summer-internship.git>
+ git clone <https://github.com/vlead/2018-summer-internship.git>
  #+END_EXAMPLE
 2) Follow the below command to change directory to work-logs
  #+BEGIN_EXAMPLE
- cd work-logs/src/2018-summer-interns/work-logs
+ cd 2018-summer-intership/src/work-logs
  #+END_EXAMPLE
 3) Follow the below command to create a directory
  #+BEGIN_EXAMPLE
@@ -51,7 +51,8 @@
  #+BEGIN_EXAMPLE
  emacs index.org & 
  #+END_EXAMPLE
-8) Add your =index.org= file link in above file and save the file.
+8) Follow the below command to add your =index.org= file link in above
+   file and save the file.
 
  Example:
  #+BEGIN_EXAMPLE

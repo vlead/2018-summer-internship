@@ -24,6 +24,7 @@
      makefile to configure.
   4. Get comfortable with [[http://orgmode.org/][emacs]] editor and [[http://orgmode.org/][org-mode]].
   5. Read about [[https://martinfowler.com/articles/microservices.html][microservices]]. 
+  6. Get thorough with the Data Structures concepts & course.
 
 ** Access Card
    An RFID card will be issued to you on Day 1 of the internship

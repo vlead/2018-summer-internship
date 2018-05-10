@@ -11,7 +11,7 @@
   features.
 
 * [[./on-boarding.org][On Boarding]]
-* [[./work-logs/index.org][Work Logs]]
 * [[./mentor-instructions.org][Mentor Instructions]]
-
-
+* [[./project-assignments.org][Project Assignments]]
+* [[./internship-agenda.org][Internship Agenda]]
+* [[./work-logs/index.org][Work Logs]]

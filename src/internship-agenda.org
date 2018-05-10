@@ -1,0 +1,111 @@
+#+Title: 2018-summer Internship Agenda 
+#+Date: [2018-05-03 Thu]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+options: ^:nil
+
+* Introduction
+  Overall/Weekwise/Day 1 Agenda for 2018 Summer Internship at VLEAD
+  are captured in this document.
+
+
+* Internship Agenda
+** General Instructions 
+
+    * Summer Internship Program will have the following
+      structure :
+    
+      + 9 experiment development team - each team comprising
+        of 2 interns
+      + 1 UI team comprising of 2 interns
+      + 1 backend development team comprising of 2 interns.
+      + 1 Outreach Team - 1 intern
+      + 1 Analytics Team - 1 intern
+
+    * Each project (experiment) will have its own
+      repository.
+
+    * Each project repo should contain a dash/story board of the
+      project - merge sort repo to be the model repo.
+
+    * Story board of the repo should contain but need not be
+      limited to the following
+      1. Introduction
+      2. Scope of the project
+      3. Members with contact info ( email,phone
+         number,github/gitlab handle)
+      4. Quick summary of the time line ( running status )
+      5. Documents 
+         a. link to realization plan 
+         b. link to exp structure 
+         c. link to reviews/evaluation b.
+      6. Assumptions
+      7. Risks and Challenges
+      8. Project closure
+         a. User Feedback
+         b. Learnings
+         c. Experience 
+    
+    * Reviews will done every Wed and Friday along with
+      presentations & demo against the exp structure
+
+    * Evaluations will be done by reviewers by filling in an
+      evaluation document. This would be part of the
+      repository and checked in by the reviewer.
+
+** Weekwise plan  
+
+   |------+----------+--------------------------------------------+-----------------+---------|
+   | S.No | Duration | Task                                       |                 | Remarks |
+   |------+----------+--------------------------------------------+-----------------+---------|
+   |   1. | Week 1   | * Process and Tools (Day 1)                | Thirumal        |         |
+   |      |          | * Tutorial on Pedagogy & Model (Day 1)     | Prof. Venkatesh |         |
+   |      |          | * Project Assignment - Part I              | MK              |         |
+   |      |          | * First cut of A1 , A2 & A3                | Interns         |         |
+   |------+----------+--------------------------------------------+-----------------+---------|
+   |   2. | Week 2   | * Second round of A1, A2 & A3              | Interns         |         |
+   |      |          | * First version of A4                      |                 |         |
+   |------+----------+--------------------------------------------+-----------------+---------|
+   |   3. | Week 3   | * Refining A4                              | Interns         |         |
+   |      |          | * Final Version of the experiment          |                 |         |
+   |      |          | * Presentation ( with experience summary ) |                 |         |
+   |------+----------+--------------------------------------------+-----------------+---------|
+   |   4. | Week 4   | * Project Assignment - Part II             | Interns         |         |
+   |      |          | * First cut of A1 , A2 & A3                |                 |         |
+   |------+----------+--------------------------------------------+-----------------+---------|
+   |   5. | Week 5   | * Second round of A1, A2 & A3              | Interns         |         |
+   |      |          | * First version of A4                      |                 |         |
+   |------+----------+--------------------------------------------+-----------------+---------|
+   |   6. | Week 6   | * Refining A4                              | Interns         |         |
+   |      |          | * Final Version of the experiment          |                 |         |
+   |      |          | * Presentation ( with experience summary ) |                 |         |
+   |------+----------+--------------------------------------------+-----------------+---------|
+   |   7. | Week 7   | Buffer                                     |                 |         |
+   |------+----------+--------------------------------------------+-----------------+---------|
+   |   8. | Week 8   | Buffer                                     |                 |         |
+   |------+----------+--------------------------------------------+-----------------+---------|
+  
+** Agenda for Day 1 - May 14th 2018 Monday
+  
+   |------+----------------------+-----------------------------------+--------------------+---------|
+   | S.No | Duration             | Task                              | Enabler            | Remarks |
+   |------+----------------------+-----------------------------------+--------------------+---------|
+   |   1. | 9:00 AM to 9:15 AM   | Registration                      | Ravi Kiran         |         |
+   |------+----------------------+-----------------------------------+--------------------+---------|
+   |   2. | 9:15 AM to 9:45 AM   | Welcome Address + Introductions   | Prof. Venkatesh    |         |
+   |------+----------------------+-----------------------------------+--------------------+---------|
+   |   3. | 9:45 AM to 11:00 AM  | Tutorial on Pedagogy & Model - I  | Prof Venkatesh/MK  |         |
+   |------+----------------------+-----------------------------------+--------------------+---------|
+   |   4. | 11:00 AM to 11:15 AM | Tea Break                         |                    |         |
+   |------+----------------------+-----------------------------------+--------------------+---------|
+   |   5. | 11:15 AM to 1:00 PM  | Tutorial on Pedagogy & Model - II | Prof. Venkatesh/MK |         |
+   |------+----------------------+-----------------------------------+--------------------+---------|
+   |   6. | 1:00 PM to 2:00 PM   | Lunch Break                       |                    |         |
+   |------+----------------------+-----------------------------------+--------------------+---------|
+   |   7. | 2:00 PM to 4:00 PM   | Project and Tools                 | Thirumal           |         |
+   |------+----------------------+-----------------------------------+--------------------+---------|
+   |   8. | 4:00 PM to 4:15 PM   | Tea Break                         |                    |         |
+   |------+----------------------+-----------------------------------+--------------------+---------|
+   |   9. | 4:15 PM to 6:00 PM   | Project Assignment & Plan ahead   | Prof. Venkatesh    |         |
+   |      |                      |                                   | Thirumal           |         |
+   |------+----------------------+-----------------------------------+--------------------+---------|

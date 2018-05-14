@@ -15,7 +15,7 @@
     * Summer Internship Program will have the following
       structure :
     
-      + 9 experiment development team - each team comprising
+      + 8 experiment development team - each team comprising
         of 2 interns
       + 1 UI team comprising of 2 interns
       + 1 backend development team comprising of 2 interns.

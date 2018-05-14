@@ -21,7 +21,7 @@
  #+END_EXAMPLE
 3) Follow the below command to create a directory
  #+BEGIN_EXAMPLE
- mkdir <enter your name>
+ mkdir <enter-your-name-without-spaces-and-in-lowercase-hyphenated-is-fine>
  #+END_EXAMPLE
 4) Follow the below command to create files
  #+BEGIN_EXAMPLE

@@ -1,0 +1,164 @@
+#+Title: Project List , Assignments & Agenda 
+#+Date: [2018-05-03 Thu]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+options: ^:nil
+
+* Project List   
+
+Following are list of projects for the 2018 intership program.
+
+General guidelines: 
+1. When introducing a concept, do it in 4 steps: 
+ + Define
+ + Show (given an example)
+ + Practice (let them try it out)
+ + Quiz (for reiteration of key concepts)
+
+2. Think in terms of a generic structure: 
+ + Pre-requisites/Pre-read
+ + Learning Objectives
+ + Pre-test
+ + Introduction
+ + <One or more sub-modules>
+ + Post-test
+ + Key takeaways
+ + Additional resources
+
+3. Think of new concepts that need to be introduced and introduce them
+   separately. For example, when talking about Mergesort, split, merge
+   are important new concepts.
+
+** Group 1    
+*** Linked lists: single and doubly linked lists 
+**** AICTE Syllabus
+
+Linked Lists: Singly linked lists: Representation in
+memory, Algorithms of several operations: Traversing, Searching,
+Insertion into, Deletion from linked list; Linked representation of
+Stack and Queue, Header nodes, Doubly linked list: operations on it
+and algorithmic analysis; Circular Linked Lists: all operations their
+algorithms and the complexity analysis.
+
+**** What to focus on
+1. What is a linked list? - Data structure for holding a list of items
+   (numbers, strings, objects)
+2. An item has a location reference, and a value stored at the
+   location
+3. List has a few primitive operations and associated time complexity
+   of doing the operation
+   + Find() 
+   + Insert()
+   + Delete()
+4. How to perform these primitive operations on singly and doubly
+   linked lists
+5. Implementing specialized structures (stacks, queues) using this
+   data structure
+
+https://en.wikipedia.org/wiki/Linked_list
+
+*** Stacks and Queues: with arrays and linked lists 
+AICTE Syllabus: ADT Stack and its operations: Algorithms and their
+complexity analysis, Applications of Stacks: Expression Conversion and
+evaluation – corresponding algorithms and complexity analysis. ADT
+queue, Types of Queue: Simple Queue, Circular Queue, Priority Queue;
+Operations on each types of Queues: Algorithms and their analysis.
+
+**** What to focus on
+Pre-req: Linked List and Arrays
+
+1. Stack Operations: Push, Pop through similation and practice
+   exercise
+ + Push: Insert(item, EndOfList);
+ + Pop: item = Delete(EndOfList);
+2. Stack time and space complexity by counting
+3. Queue operations: enqueue, dequeue through similation and practice
+   exercise
+ + Enqueue: Insert(item, EndOfList);
+ + Dequeue: item = Delete(StartOfList);
+4. Queue time and space complexity by counting
+  
+https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
+
+https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
+
+*** Infix to Postfix conversion, evaluation of Postfix expression. 
+**** What to focus on
+1. Introduce Infix and Postfix
+1. Show why it is important to convert (algorithm for postfix
+   evaluation is more efficient than infix)
+2. Why use stack for conversion and evaluation? Stack operations
+   review
+
+https://en.wikipedia.org/wiki/Reverse_Polish_notation
+
+
+*** Polynomial Arithmetic using linked lists 
+**** What to focus on
+Introduce the terms/concepts used: 
+1. polynomial and their operations
+2. polynomial representation using linked list
+
+visually demonstrate polynomial arithmatic, then show the same using linked list. 
+
+** Group 2
+Use mergesort example to structure the experiment similarly. 
+
+*** Merge Sort: algorithm and complexity 
+Already done
+
+*** Quick Sort: algorithm and complexity 
+https://en.wikipedia.org/wiki/Quicksort
+Define Recursion (or assume people know it)
+Key operations: 
+1. Pick a pivot
+2. Partition around the pivot
+3. Quicksort the partition
+
+Consider a non-recursive way to explain this (see mergesort example)
+
+*** Heap Sort: algorithm and complexity 
+Key operations
+1. Build a heap
+2. Remove the root (this is the next element in the sorted output array)
+3. Move the the last element as the new root (new heap has 1 less elements)
+4. Rebuild the heap
+
+Space optimization by in-place sorting (modifying step 2 and 3). 
+
+https://en.wikipedia.org/wiki/Heapsort
+
+*** Bubble Sort: algorithm and complexity 
+
+Key operations: 
+1. Compare
+2. Swap
+3. Iterate
+
+Time complexity and why it is so poor
+
+https://en.wikipedia.org/wiki/Bubble_sort
+** Group 3
+*** Hashtables:  Search, insertion and deletion
+
+Key concepts:
+1. Associative array vs. regular array
+2. Hash function
+3. Collision
+
+Operations (same as other operations on a data structure)
+
+https://en.wikipedia.org/wiki/Hash_table
+
+*** Binary Trees: Recursive and iterative traversals
+*** Binary Search Tree:  Construction, insertion, deletion and search
+
+** Group 4
+*** B-Trees  
+*** Operations on AVL trees
+*** Traversal on Graphs
+
+
+ 
+
+

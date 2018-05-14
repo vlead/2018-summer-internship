@@ -13,5 +13,6 @@
 * [[./on-boarding.org][On Boarding]]
 * [[./mentor-instructions.org][Mentor Instructions]]
 * [[./project-assignments.org][Project Assignments]]
+* [[./assignment-details.org][Project Assignment Details]]
 * [[./internship-agenda.org][Internship Agenda]]
 * [[./work-logs/index.org][Work Logs]]

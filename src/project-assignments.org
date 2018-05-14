@@ -30,7 +30,7 @@ are captured here
    |-----------+----------------------+--------------------------+-----------------+-----------|
    |         4 | Mayank Taluja        | Stacks and Queues:       | Prof Venkatesh, |           |
    |           |                      | with arrays and          | Thirumal & MK   |           |
-   |           | Aditya Todi          | linked lists             |                 |           |
+   |           | Sanjana Sunil        | linked lists             |                 |           |
    |           |                      |                          |                 |           |
    |-----------+----------------------+--------------------------+-----------------+-----------|
    |         5 | Mishal Shah          | Infix to Postfix         | Prof Venkatesh, |           |
@@ -56,7 +56,7 @@ are captured here
    |-----------+----------------------+--------------------------+-----------------+-----------|
    |         9 | Vikrant  Deshmukh    | Bubble Sort:             | Prof Venkatesh, |           |
    |           |                      | algorithm and complexity | Thirumal & MK   |           |
-   |           | Sanjana Sunil        |                          |                 |           |
+   |           |                      |                          |                 |           |
    |           |                      |                          |                 |           |
    |-----------+----------------------+--------------------------+-----------------+-----------|
    |  Outreach | Gayatri Purigilla    | Outreach Internship      | Lalit           |           |

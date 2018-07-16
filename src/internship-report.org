@@ -92,7 +92,6 @@
     programming, how to write proper docs, my
     self-confidence increased."
 
-
 5.  " No need of dividing experiments into groups of
     two. Cause in most of the times,only one person did the
     whole experiment.Because once someone starts working on
@@ -118,9 +117,5 @@
    allows to make development with minimal time and maximum
    usage of the resources available at hand."
 
-
-* Outreach Summer Internship 
-  Follow the link for 2018 Outreach Summer Internship
-  report. 
 
  

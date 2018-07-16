@@ -1,0 +1,126 @@
+#+Title: 2018-summer Internship Report 
+#+Date: [2018-07-16 Mon]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+options: ^:nil
+
+* Introduction
+  Overall report for 2018 Summer Internship at VLEAD
+  are captured in this document.
+
+* IIITH Summer Internship Report
+** Facts 
+   * Summer Internship Program started off with the
+     following teams :
+    
+      + 7 experiment development team - each team comprising
+        of 2 interns
+      + 1 UI team comprising of 2 interns
+      + 1 backend development team comprising of 2 interns.
+      + 1 Outreach Team - 1 intern
+      + 1 Analytics Team - 1 intern
+
+    * Each project (experiment) was realized its own
+      group/repositories.
+
+    * Each project repo contains a dashboard of the
+      project under group/readme/src/index.org
+
+    * Dashboard of the experiment contains the following
+      1. Introduction
+      2. Scope of the project
+      3. Members with contact info ( email,phone
+         number,github/gitlab handle)
+      4. Quick summary of the time line ( running status )
+      5. Documents 
+         a. link to realization plan 
+         b. link to exp structure 
+         c. link to reviews/evaluation b.
+      6. Assumptions
+      7. Risks and Challenges
+      8. Project closure
+         a. User Feedback
+         b. Learnings
+         c. Experience 
+      9. Hosted URL
+    
+    * The overall plan was to have each team realize two
+      experiments each but each team ended up only realizing
+      1 experiment each.
+    * In total 8 new experments were implemented with exp
+      content, story-board and artifacts. 
+    * UI design for the experiments provided by the UI team
+      need to be implemented in the respective artifacts and
+      renderer.
+    * Quiz grammer and Analytics is to be incorporated for
+      all experiments.
+
+** Summary & Opinions 
+  Overall the internship has been fruitful with proof of
+  concept for experiment development established. There are
+  a lot of wrinkles that need to be ironed out which can be
+  done before the start of 2018 winter internship program.
+  
+  Testimonials from the students : 
+
+1.  " I would rate it slightly above average. I found it too
+    dragged out in the beginning but too consisted towards
+    the end and it could have been better spread
+    out. However I learnt the importance of pedagogy and
+    learned the importance of proper documentation. "
+
+2.  " Overall this internship was a great experience for
+    me. I am really thankful i was a part of VLEAD for the
+    summer. I feel much more confident now about my coding
+    skills and know that i can take up challenges and
+    present my work confidently to people. I had the
+    opportunity to interact with my peers and mentors and
+    present and defend my work several times. I am fluent
+    with the entire cycle of software production
+    now. Looking back two months i realize how much i have
+    learnt and am happy to have spent a fruitful summer
+    building a virtual lab for MHRD which can actually be
+    put to production and used by students across."
+
+3.  " This program is really helpful to explore and learning
+    by interacting with different peoples.I really Enjoyed
+    the process and making the design artifact and learning
+    new tools here."
+
+4.  " It was an amazing experience while working as an
+    intern, I got to know a lot of stuff like literate
+    programming, how to write proper docs, my
+    self-confidence increased."
+
+
+5.  " No need of dividing experiments into groups of
+    two. Cause in most of the times,only one person did the
+    whole experiment.Because once someone starts working on
+    something,partner wasn't able to understand.And one
+    person can definitely finish one experiment on his own
+    if they follow proper guidelines from the beginning.
+
+6. " More interaction between the back-end development and
+   the interns who are only developing the artifacts and
+   working on the virtual lab like a front-end project, if
+   we have been also involved to the back-end development
+   then we would have had a better grasp of hosting the
+   experiments in the end and also would have had a better
+   grasp and experience overall.
+
+7 " I think more frequent discussions between the interns
+  and with mentors would have been better to keep track of
+  what everyone is doing and stay in sink"
+
+8. " The introduction to the DevOps field is what i feel
+   that has been more useful and interesting the
+   possibilities that it opens up and the easeness that it
+   allows to make development with minimal time and maximum
+   usage of the resources available at hand."
+
+
+* Outreach Summer Internship 
+  Follow the link for 2018 Outreach Summer Internship
+  report. 
+
+ 

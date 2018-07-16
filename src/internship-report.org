@@ -107,9 +107,9 @@
    experiments in the end and also would have had a better
    grasp and experience overall."
 
-7 " I think more frequent discussions between the interns
-  and with mentors would have been better to keep track of
-  what everyone is doing and stay in sink. "
+7. " I think more frequent discussions between the interns
+   and with mentors would have been better to keep track of
+   what everyone is doing and stay in sink. "
 
 8. " The introduction to the DevOps field is what i feel
    that has been more useful and interesting the

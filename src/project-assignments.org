@@ -9,62 +9,58 @@ are captured here
 
 * Project Assignments - Part 1 
 
-   |-----------+----------------------+--------------------------+-----------------+-----------|
-   |      Team | Team Members         | Project                  | Mentor          | Project   |
-   |           |                      | Assignment               |                 | Repo link |
-   |-----------+----------------------+--------------------------+-----------------+-----------|
-   |         1 | Devansh Manu         | Hashtables:              | Prof Venkatesh, |           |
-   |           |                      | Search, insertion        | Thirumal & MK   |           |
-   |           | Keshavan  Seshadri   | and deletion             |                 |           |
-   |           |                      |                          |                 |           |
-   |-----------+----------------------+--------------------------+-----------------+-----------|
-   |         2 | Mayank Modi          | Hashtables:              | Prof Venkatesh, |           |
-   |           |                      | Search, insertion        | Thirumal & MK   |           |
-   |           | Debojit Das          | and deletion             |                 |           |
-   |           |                      |                          |                 |           |
-   |-----------+----------------------+--------------------------+-----------------+-----------|
-   |         3 | Swapnil Pakhare      | Linked lists:            | Prof Venkatesh, |           |
-   |           |                      | single and doubly        | Thirumal & MK   |           |
-   |           | Sumaid Syed          | linked lists             |                 |           |
-   |           |                      |                          |                 |           |
-   |-----------+----------------------+--------------------------+-----------------+-----------|
-   |         4 | Mayank Taluja        | Stacks and Queues:       | Prof Venkatesh, |           |
-   |           |                      | with arrays and          | Thirumal & MK   |           |
-   |           | Sanjana Sunil        | linked lists             |                 |           |
-   |           |                      |                          |                 |           |
-   |-----------+----------------------+--------------------------+-----------------+-----------|
-   |         5 | Mishal Shah          | Infix to Postfix         | Prof Venkatesh, |           |
-   |           |                      | conversion, evaluation   | Thirumal & MK   |           |
-   |           | Thayi Sowrya deep    | of Postfix expression    |                 |           |
-   |           |                      |                          |                 |           |
-   |-----------+----------------------+--------------------------+-----------------+-----------|
-   |         6 | Srinivas Nishant V   | Polynomial Arithmetic    | Prof Venkatesh, |           |
-   |           |                      | using linked lists       | Thirumal & MK   |           |
-   |           |                      |                          |                 |           |
-   |           | Udaypartap Singh     |                          |                 |           |
-   |           |                      |                          |                 |           |
-   |-----------+----------------------+--------------------------+-----------------+-----------|
-   |         7 | Daksh Lalwani        | Quick Sort:              | Prof Venkatesh, |           |
-   |           |                      | algorithm and complexity | Thirumal & MK   |           |
-   |           | Surendra Kumar reddy |                          |                 |           |
-   |           |                      |                          |                 |           |
-   |-----------+----------------------+--------------------------+-----------------+-----------|
-   |         8 | Rachit Jain          | Heap Sort:               | Prof Venkatesh, |           |
-   |           |                      | algorithm and complexity | Thirumal & MK   |           |
-   |           | Ananya Arun          |                          |                 |           |
-   |           |                      |                          |                 |           |
-   |-----------+----------------------+--------------------------+-----------------+-----------|
-   |  Outreach | Gayatri Purigilla    | Outreach Internship      | Lalit           |           |
-   |           |                      |                          | Sanchita        |           |
-   |-----------+----------------------+--------------------------+-----------------+-----------|
-   |   Backend | Dhruv Chauhan        |                          | Prof Venkatesh  |           |
-   |           |                      |                          | Thirumal        |           |
-   |           | Krutam Hathi         |                          |                 |           |
-   |           |                      |                          |                 |           |
-   |-----------+----------------------+--------------------------+-----------------+-----------|
-   |        UI | Yajnyadatta Dora     | UI for all experiments   | Prof. Venkatesh |           |
-   |           | Rakesh Kumar         |                          | Thirumal        |           |
-   |-----------+----------------------+--------------------------+-----------------+-----------|
-   | Analytics | Devansh Gupta        | Analytics support for    | Prof. Venkatesh |           |
-   |           |                      | existing labs            |                 |           |
-   |-----------+----------------------+--------------------------+-----------------+-----------|
+   |-----------+----------------------+--------------------------+-----------------+-------------------|
+   |      Team | Team Members         | Project                  | Mentor          | Project           |
+   |           |                      | Assignment               |                 | Repo link         |
+   |-----------+----------------------+--------------------------+-----------------+-------------------|
+   |         1 | Mayank Modi          | Hashtables:              | Prof Venkatesh, | [[https://gitlab.com/vlead-projects/experiments/hashtablesone][Hashtables one]]    |
+   |           |                      | Search, insertion        | Thirumal & MK   | [[https://gitlab.com/vlead-projects/experiments/hashtablestwo][Hashtables two]]    |
+   |           | Debojit Das          | and deletion             |                 |                   |
+   |           |                      |                          |                 |                   |
+   |-----------+----------------------+--------------------------+-----------------+-------------------|
+   |         2 | Swapnil Pakhare      | Linked lists:            | Prof Venkatesh, | [[https://gitlab.com/vlead-projects/experiments/linkedlists][Linked lists]]      |
+   |           |                      | single and doubly        | Thirumal & MK   |                   |
+   |           | Sumaid Syed          | linked lists             |                 |                   |
+   |           |                      |                          |                 |                   |
+   |-----------+----------------------+--------------------------+-----------------+-------------------|
+   |         3 | Mayank Taluja        | Stacks and Queues:       | Prof Venkatesh, | [[https://gitlab.com/vlead-projects/experiments/stacksandqueues][Stacks and Queues]] |
+   |           |                      | with arrays and          | Thirumal & MK   |                   |
+   |           | Sanjana Sunil        | linked lists             |                 |                   |
+   |           |                      |                          |                 |                   |
+   |-----------+----------------------+--------------------------+-----------------+-------------------|
+   |         4 | Thayi Sowrya deep    | Infix to Postfix         | Prof Venkatesh, | [[https://gitlab.com/vlead-projects/experiments/inandpostfix][In and post fix]]   |
+   |           |                      | conversion, evaluation   | Thirumal & MK   |                   |
+   |           | Keshavan  Seshadri   | of Postfix expression    |                 |                   |
+   |           |                      |                          |                 |                   |
+   |-----------+----------------------+--------------------------+-----------------+-------------------|
+   |         5 | Srinivas Nishant V   | Polynomial Arithmetic    | Prof Venkatesh, | [[https://gitlab.com/vlead-projects/experiments/polyarithmetic][Poly Arithmetic]]   |
+   |           |                      | using linked lists       | Thirumal & MK   |                   |
+   |           |                      |                          |                 |                   |
+   |           | Udaypartap Singh     |                          |                 |                   |
+   |           |                      |                          |                 |                   |
+   |-----------+----------------------+--------------------------+-----------------+-------------------|
+   |         6 | Daksh Lalwani        | Quick Sort:              | Prof Venkatesh, | [[https://gitlab.com/vlead-projects/experiments/quicksort][Quick Sort]]        |
+   |           |                      | algorithm and complexity | Thirumal & MK   |                   |
+   |           | Surendra Kumar reddy |                          |                 |                   |
+   |           |                      |                          |                 |                   |
+   |-----------+----------------------+--------------------------+-----------------+-------------------|
+   |         7 | Rachit Jain          | Heap Sort:               | Prof Venkatesh, | [[https://gitlab.com/vlead-projects/experiments/heapsort][Heap sort]]         |
+   |           |                      | algorithm and complexity | Thirumal & MK   |                   |
+   |           | Ananya Arun          |                          |                 |                   |
+   |           |                      |                          |                 |                   |
+   |-----------+----------------------+--------------------------+-----------------+-------------------|
+   |  Outreach | Gayatri Purigilla    | Outreach Internship      | Lalit           |                   |
+   |           |                      |                          | Sanchita        |                   |
+   |-----------+----------------------+--------------------------+-----------------+-------------------|
+   |   Backend | Dhruv Chauhan        |                          | Prof Venkatesh  |                   |
+   |           |                      |                          | Thirumal        |                   |
+   |           | Krutam Hathi         |                          |                 |                   |
+   |           |                      |                          |                 |                   |
+   |           | Mishal Shah          |                          |                 |                   |
+   |-----------+----------------------+--------------------------+-----------------+-------------------|
+   |        UI | Yajnyadatta Dora     | UI for all experiments   | Prof. Venkatesh | [[https://gitlab.com/vlead-projects/experiments/uidesign][UI Design]]         |
+   |           | Rakesh Kumar         |                          | Thirumal        |                   |
+   |-----------+----------------------+--------------------------+-----------------+-------------------|
+   | Analytics | Devansh Gupta        | Analytics support for    | Prof. Venkatesh | [[https://gitlab.com/vlead-projects/experiments/analytics][Analytics]]         |
+   |           |                      | existing labs            |                 |                   |
+   |-----------+----------------------+--------------------------+-----------------+-------------------|

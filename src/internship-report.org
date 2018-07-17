@@ -5,10 +5,36 @@
 #+options: ^:nil
 
 * Introduction
-  Overall report for 2018 Summer Internship at VLEAD
-  are captured in this document.
+  This document captures the overall report for 2018 Summer
+  Internship at VLEAD.
 
-* IIITH Summer Internship Report
+* Executive Summary 
+  The objective of the summer internship at VLEAD was to
+  build the Virtual Labs experiments assigned to IIITH for
+  Phase 3 of the Virtual Labs project.  It was decided to
+  offer a two month summer internship program for IIITH
+  students to accomplish the same.  The plan was to hire 20
+  interns and have them build the experiments and the
+  backend support for rendering these experiments.
+
+  7 experiment development teams ( each team comprising of 2
+  interns) were assigned one experiment each.  One team was
+  specifically focussed ion getting the backend ready.
+  There was also an UI team focussing entirely on designing
+  the UI for all the experiments.
+
+   * The overall plan was to have each team realize two
+     experiments each but each team ended up only realizing
+     1 experiment each.
+   * In total 8 new experments were implemented with exp
+     content, story-board and artifacts.
+   * UI design for the experiments provided by the UI team
+     need to be implemented in the respective artifacts and
+     renderer.
+   * Quiz grammer and Analytics is to be incorporated for
+     all experiments.
+  
+* IIITH Summer Internship Details
 ** Facts 
    * Summer Internship Program started off with the
      following teams :
@@ -35,7 +61,8 @@
       5. Documents 
          a. link to realization plan 
          b. link to exp structure 
-         c. link to reviews/evaluation b.
+         c. link to reviews/evaluation
+         d. link to the poster 
       6. Assumptions
       7. Risks and Challenges
       8. Project closure
@@ -44,22 +71,12 @@
          c. Experience 
       9. Hosted URL
     
-    * The overall plan was to have each team realize two
-      experiments each but each team ended up only realizing
-      1 experiment each.
-    * In total 8 new experments were implemented with exp
-      content, story-board and artifacts. 
-    * UI design for the experiments provided by the UI team
-      need to be implemented in the respective artifacts and
-      renderer.
-    * Quiz grammer and Analytics is to be incorporated for
-      all experiments.
-
 ** Summary & Opinions 
   Overall the internship has been fruitful with proof of
   concept for experiment development established. There are
-  a lot of wrinkles that need to be ironed out which can be
-  done before the start of 2018 winter internship program.
+  a lot of wrinkles ( experiment artifacts, renderer and
+  analytics ) that need to be ironed out which can be done
+  before the start of 2018 winter internship program.
   
   Testimonials from the students : 
 

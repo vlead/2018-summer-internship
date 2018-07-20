@@ -16,3 +16,4 @@
 * [[./assignment-details.org][Project Assignment Details]]
 * [[./internship-agenda.org][Internship Agenda]]
 * [[./work-logs/index.org][Work Logs]]
+* [[./internship-report.org][Internship Report]]
